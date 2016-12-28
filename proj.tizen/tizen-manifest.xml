@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="com.CATREE.GOCARGAME" version="1.0.0">
+    <ui-application appid="com.CATREE.GOCARGAME" exec="hellocpp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>GOCARGAME</label>
+        <icon>GOCARGAME.png</icon>
+    </ui-application>
+</manifest>
